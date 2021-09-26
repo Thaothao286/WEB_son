@@ -1,0 +1,19 @@
+ul.admin_list{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+ul.admin_list li{
+	float: left; /*  Float sử dụng để chuyển một phần tử sang góc trái hoặc phải của không gian bao quanh nó */
+	margin: 5px;
+}
+
+.clear{
+	clear: both;
+}
+
+
+td#img {
+    width: 180px;
+}
